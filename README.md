@@ -1,0 +1,2 @@
+# Human-ADAM10-alpha--Secretase-in-Alzheimer-s-Disease
+Alzheimer’s disease is characterized pathologically by progressive neurodegeneration and the accumulation of neurotoxic amyloid-beta ($A\beta$) plaques. While $\beta$-secretase (BACE1) mediates the amyloidogenic cleavage of Amyloid Precursor Protein (APP), $\alpha$-secretase (ADAM10) cleaves APP within the $A\beta$ sequence, precluding toxic plaque
